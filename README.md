@@ -51,4 +51,4 @@ A free web app for shop owners. It checks a product page for SEO and AEO, writes
 ## Work with me
 **[Hire me on Upwork](https://www.upwork.com/freelancers/~01c18d191d6a95988c)**
 
-<sub>Based in Poland · English, Hindi, Punjabi, Polish · Replies every day 15:00 to 24:00 CET</sub>
+<sub>English, Hindi, Punjabi, Polish · I reply every day</sub>
