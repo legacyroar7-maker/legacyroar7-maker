@@ -6,9 +6,11 @@ Presentations in PowerPoint and Google Slides. SEO and AEO product listings for 
 ---
 
 ## New this week
-- **5 Oct 2026:** Profile updated with my two main services: pitch decks and SEO and AEO product listings.
-- **Free tool:** [Shop Tools](https://legacyroar7-maker.github.io/shop-tools/) checks a product page for SEO and AEO and shows your real profit per sale.
-- **Free prompts:** [Everyday AI Prompts](https://github.com/legacyroar7-maker/ai-prompts) for selling online and running a small business.
+- **20 Oct 2026:** [Resale clothing photo checklist](https://github.com/legacyroar7-maker/seller-templates#6-resale-clothing-photo-checklist): 8 shots, light, background and label close-ups for Vinted, Depop, eBay and Vestiaire.
+- **19 Oct 2026:** [Before you send your deck](https://github.com/legacyroar7-maker/deck-kit#5-before-you-send-your-deck-15-point-checklist): a 15-point checklist for PowerPoint and Google Slides.
+- **18 Oct 2026:** [Bulk title checker](https://legacyroar7-maker.github.io/shop-tools/): paste many product titles, see which are too long for Etsy, eBay or Shopify.
+- **17 Oct 2026:** [AEO FAQ block for product pages](https://github.com/legacyroar7-maker/seller-templates#5-aeo-faq-block-for-product-pages): 6 questions buyers ask AI tools, with a copy-and-paste HTML and schema example.
+- **16 Oct 2026:** [Slide design checklist](https://github.com/legacyroar7-maker/deck-kit#4-slide-design-checklist-12-rules): 12 rules for clean, readable slides.
 
 ---
 
@@ -36,15 +38,27 @@ Presentations in PowerPoint and Google Slides. SEO and AEO product listings for 
 
 ---
 
-## Try my work: Shop Tools
-A free web app for shop owners. It checks a product page for SEO and AEO, writes the schema code for you, and shows your real profit per sale.
+## Free kits you can use today
+
+### Deck Kit: pitch decks and presentations
+The 10-slide investor deck outline, insight headlines, a chart chooser, a slide design checklist and a "before you send" checklist. Plain English, demo examples.
+
+**Open:** [deck-kit](https://github.com/legacyroar7-maker/deck-kit)
+
+### Seller Templates: SEO and AEO listings
+Ready files for Shopify, Etsy, eBay, Vinted, Depop and Vestiaire: a Shopify product import CSV, an Etsy listing planner, an eBay item specifics checklist, a Vinted and Depop checklist, an AEO FAQ block and a resale photo checklist.
+
+**Open:** [seller-templates](https://github.com/legacyroar7-maker/seller-templates)
+
+### Shop Tools: free web app
+Four tools in one page: a product page checker for SEO and AEO (it also writes the schema code), a marketplace title checker, a bulk title checker and a profit calculator. Nothing you type leaves your browser.
 
 **Live:** https://legacyroar7-maker.github.io/shop-tools/ &nbsp;·&nbsp; **Code:** [shop-tools](https://github.com/legacyroar7-maker/shop-tools)
 
 <a href="https://legacyroar7-maker.github.io/shop-tools/"><img src="https://raw.githubusercontent.com/legacyroar7-maker/shop-tools/main/preview-checker.png" alt="Shop Tools product page checker" width="760"></a>
 
-## Free: Everyday AI Prompts
-30+ copy-and-paste prompts that make ChatGPT, Claude or Gemini useful for real life: planning your day, emails, budgets, meals, travel, selling online and running a small business.
+### Everyday AI Prompts
+30+ copy-and-paste prompts that make ChatGPT, Claude or Gemini useful for real life: planning your day, emails, budgets, meals, travel, selling online, running a small business and pitch decks.
 
 **Open:** [ai-prompts](https://github.com/legacyroar7-maker/ai-prompts)
 
